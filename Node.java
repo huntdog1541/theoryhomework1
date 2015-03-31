@@ -6,7 +6,7 @@ public class Node(){
 
         }
 
-        public static void Main(String argc)
+        public static void main(String[] args)
         {
             System.out.println("Hello, world!");
         }
