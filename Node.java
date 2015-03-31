@@ -1,5 +1,8 @@
+import javax.swing.*;
 
-public class Node(){
+
+public class Node()
+{
 
         public Node()
         {
