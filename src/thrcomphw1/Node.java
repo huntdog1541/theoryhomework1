@@ -36,8 +36,7 @@ public class Node {
 	{
 		if(acceptState == true)
 		{
-			if(temp == chr)
-				accpt = true;
+			accpt = true;
 		}
 	}
 
@@ -53,7 +52,5 @@ public class Node {
 		else
 			return false;
 	}
-
-
 
 }
